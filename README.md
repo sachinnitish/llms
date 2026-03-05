@@ -7,8 +7,8 @@ A single-page structural link extractor and `llms.txt` generator designed for mo
 The project includes convenience scripts for automated setup and execution.
 
 ### Windows
-1. **Setup**: Double-click `.\windows\setup.bat` to create a virtual environment and install dependencies.
-2. **Run**: Double-click `.\windows\run.bat` to launch the application.
+1. **Setup**: Edit properties and tick the unblock option on `.\windows\setup.bat`, then double click to create a virtual environment and install dependencies.
+2. **Run**: Edit properties and tick the unblock option on `.\windows\run.bat` then double click to launch the application.
 3. **Reset**: Double-click `.\windows\teardown.bat` if you need to clear the environment and cache.
 
 ### Unix / macOS
