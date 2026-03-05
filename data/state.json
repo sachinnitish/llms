@@ -1,0 +1,865 @@
+{
+  "https://www.site24x7.com/": {
+    "status": "extracted",
+    "link_tree": {
+      "General": [
+        {
+          "text": "Link",
+          "url": "https://www.site24x7.com/"
+        },
+        {
+          "text": "Pricing",
+          "url": "https://www.site24x7.com/site24x7-pricing.html"
+        },
+        {
+          "text": "Demo",
+          "url": "https://www.site24x7.com/schedule-demo.html"
+        },
+        {
+          "text": "Support",
+          "url": "https://www.site24x7.com/contact-support.html"
+        },
+        {
+          "text": "Free Tools",
+          "url": "https://www.site24x7.com/tools/"
+        },
+        {
+          "text": "Enterprise",
+          "url": "https://www.site24x7.com/enterprise/"
+        },
+        {
+          "text": "Log in",
+          "url": "https://www.site24x7.com/login.html"
+        },
+        {
+          "text": "All features",
+          "url": "https://www.site24x7.com/features.html"
+        },
+        {
+          "text": "Get a quote",
+          "url": "https://www.site24x7.com/custom-pricing.html"
+        },
+        {
+          "text": "Resources Explore e-books, whitepapers and more.",
+          "url": "https://www.site24x7.com/resource.html"
+        },
+        {
+          "text": "Solutions Explore solutions by need, industry, role, and scale.",
+          "url": "https://www.site24x7.com/solutions/"
+        },
+        {
+          "text": "Blogs Read insights, trends, and expert opinions.",
+          "url": "https://www.site24x7.com/blog/"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.site24x7.com/privacypolicy.html"
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://www.site24x7.com/terms.html"
+        },
+        {
+          "text": "Cookie Policy",
+          "url": "https://www.site24x7.com/cookiepolicy.html"
+        },
+        {
+          "text": "Security",
+          "url": "https://www.site24x7.com/security.html"
+        },
+        {
+          "text": "Sitemap",
+          "url": "https://www.site24x7.com/sitemap.html"
+        }
+      ],
+      "Synthetics and RUM": [
+        {
+          "text": "Website monitoring",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        },
+        {
+          "text": "Multi-step transaction monitoring",
+          "url": "https://www.site24x7.com/synthetic-transaction-monitoring.html"
+        },
+        {
+          "text": "Real user monitoring (RUM)",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        },
+        {
+          "text": "Mobile RUM",
+          "url": "https://www.site24x7.com/mobile-rum.html"
+        }
+      ],
+      "Logs": [
+        {
+          "text": "Log management",
+          "url": "https://www.site24x7.com/log-management.html"
+        }
+      ],
+      "Observability": [
+        {
+          "text": "Application performance monitoring",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        },
+        {
+          "text": "Database monitoring",
+          "url": "https://www.site24x7.com/database-monitoring.html"
+        },
+        {
+          "text": "Plugin integrations",
+          "url": "https://www.site24x7.com/plugins.html"
+        }
+      ],
+      "Infrastructure": [
+        {
+          "text": "Server monitoring",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        },
+        {
+          "text": "AWS monitoring",
+          "url": "https://www.site24x7.com/aws-monitoring.html"
+        },
+        {
+          "text": "Azure monitoring",
+          "url": "https://www.site24x7.com/azure/"
+        },
+        {
+          "text": "GCP monitoring",
+          "url": "https://www.site24x7.com/gcp/"
+        },
+        {
+          "text": "OCI monitoring",
+          "url": "https://www.site24x7.com/oci-monitoring.html"
+        },
+        {
+          "text": "Kubernetes monitoring",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "Virtualization monitoring",
+          "url": "https://www.site24x7.com/virtualization-monitoring.html"
+        }
+      ],
+      "Platform": [
+        {
+          "text": "AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        },
+        {
+          "text": "Integrations",
+          "url": "https://www.site24x7.com/integrations.html"
+        }
+      ],
+      "Network": [
+        {
+          "text": "Network monitoring",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        },
+        {
+          "text": "Network traffic monitoring",
+          "url": "https://www.site24x7.com/network-traffic-monitoring.html"
+        },
+        {
+          "text": "Network configuration management",
+          "url": "https://www.site24x7.com/network-configuration-manager.html"
+        },
+        {
+          "text": "IP and switch management",
+          "url": "https://www.site24x7.com/ip-address-management.html"
+        }
+      ],
+      "Others": [
+        {
+          "text": "Incident communication",
+          "url": "https://www.site24x7.com/statusiq/"
+        },
+        {
+          "text": "Third-party risk assessment",
+          "url": "https://www.site24x7.com/digital-risk-analyzer/"
+        },
+        {
+          "text": "MSP",
+          "url": "https://www.site24x7.com/msp/"
+        }
+      ],
+      "Get started": [
+        {
+          "text": "Help Docs",
+          "url": "https://www.site24x7.com/help/"
+        },
+        {
+          "text": "API Docs",
+          "url": "https://www.site24x7.com/help/api/"
+        },
+        {
+          "text": "Community",
+          "url": "https://www.site24x7.com/community/"
+        },
+        {
+          "text": "Training",
+          "url": "https://www.site24x7.com/training.html"
+        },
+        {
+          "text": "Videos",
+          "url": "https://www.site24x7.com/videos/"
+        }
+      ],
+      "Become an expert": [
+        {
+          "text": "Webinars",
+          "url": "https://www.site24x7.com/webinars.html"
+        },
+        {
+          "text": "Site24x7 Academy",
+          "url": "https://www.site24x7.com/academy.html"
+        },
+        {
+          "text": "Whitepapers",
+          "url": "https://www.site24x7.com/whitepapers/"
+        },
+        {
+          "text": "eBooks",
+          "url": "https://www.site24x7.com/ebook/"
+        },
+        {
+          "text": "Learn",
+          "url": "https://www.site24x7.com/learn/"
+        },
+        {
+          "text": "IT Glossary",
+          "url": "https://www.site24x7.com/it-glossary/"
+        }
+      ],
+      "Built for business": [
+        {
+          "text": "Case studies",
+          "url": "https://www.site24x7.com/casestudies/"
+        },
+        {
+          "text": "Customers",
+          "url": "https://www.site24x7.com/customers.html"
+        },
+        {
+          "text": "Partner with us",
+          "url": "https://www.site24x7.com/partners.html"
+        },
+        {
+          "text": "Testimonials",
+          "url": "https://www.site24x7.com/site24x7-testimonials.html"
+        }
+      ],
+      "Technical solutions": [
+        {
+          "text": "Hybrid cloud monitoring",
+          "url": "https://www.site24x7.com/solutions/hybrid-cloud-monitoring.html"
+        },
+        {
+          "text": "Cloud-native observability",
+          "url": "https://www.site24x7.com/solutions/cloud-native-observability.html"
+        },
+        {
+          "text": "Network resilience",
+          "url": "https://www.site24x7.com/solutions/network-resilience.html"
+        },
+        {
+          "text": "Log management",
+          "url": "https://www.site24x7.com/solutions/boost-business-operations-with-log-management.html"
+        },
+        {
+          "text": "AIOps for DevOps",
+          "url": "https://www.site24x7.com/solutions/aiops-for-devops.html"
+        },
+        {
+          "text": "Digital experience monitoring",
+          "url": "https://www.site24x7.com/solutions/digital-experience-monitoring.html"
+        }
+      ],
+      "Log InSign Up": [
+        {
+          "text": "Log In",
+          "url": "https://www.site24x7.com/login.html"
+        },
+        {
+          "text": "Sign Up",
+          "url": "https://www.site24x7.com/signup.html"
+        }
+      ],
+      "AI-poweredmonitoring for modern IT": [
+        {
+          "text": "Start your 30-day free trial",
+          "url": "https://www.site24x7.com/signup.html"
+        }
+      ],
+      "All-in-one Monitoring Solution": [
+        {
+          "text": "Website Monitoring",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        },
+        {
+          "text": "Server Monitoring",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        },
+        {
+          "text": "Cloud Monitoring",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
+        },
+        {
+          "text": "Application Performance",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        },
+        {
+          "text": "Kubernetes Monitoring",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "Network Monitoring",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        },
+        {
+          "text": "Real User Monitoring",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        },
+        {
+          "text": "Synthetic Transactions",
+          "url": "https://www.site24x7.com/synthetic-transaction-monitoring.html"
+        },
+        {
+          "text": "Log Management",
+          "url": "https://www.site24x7.com/log-management.html"
+        },
+        {
+          "text": "AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        }
+      ],
+      "Public and Private Cloud Monitoring": [
+        {
+          "text": "Public and Private Cloud Monitoring",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
+        }
+      ],
+      "Features Overview": [
+        {
+          "text": "Amazon Web Services",
+          "url": "https://www.site24x7.com/aws-monitoring.html"
+        },
+        {
+          "text": "Azure",
+          "url": "https://www.site24x7.com/azure/"
+        },
+        {
+          "text": "GCP",
+          "url": "https://www.site24x7.com/gcp/"
+        },
+        {
+          "text": "VMware",
+          "url": "https://www.site24x7.com/vmware-monitoring.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
+        },
+        {
+          "text": "Windows",
+          "url": "https://www.site24x7.com/windows-monitoring.html"
+        },
+        {
+          "text": "Linux",
+          "url": "https://www.site24x7.com/linux-monitoring.html"
+        },
+        {
+          "text": "FreeBSD",
+          "url": "https://www.site24x7.com/freebsd-monitoring.html"
+        },
+        {
+          "text": "Nutanix",
+          "url": "https://www.site24x7.com/nutanix-monitoring.html"
+        },
+        {
+          "text": "Docker",
+          "url": "https://www.site24x7.com/docker-monitoring.html"
+        },
+        {
+          "text": "Kubernetes",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        },
+        {
+          "text": "Java",
+          "url": "https://www.site24x7.com/java-application-monitor.html"
+        },
+        {
+          "text": ".NET",
+          "url": "https://www.site24x7.com/microsoft-net-application-monitor.html"
+        },
+        {
+          "text": "Ruby",
+          "url": "https://www.site24x7.com/ruby-monitoring.html"
+        },
+        {
+          "text": "PHP",
+          "url": "https://www.site24x7.com/php-monitoring.html"
+        },
+        {
+          "text": "Node.js",
+          "url": "https://www.site24x7.com/node-js-monitoring.html"
+        },
+        {
+          "text": "mobile platforms",
+          "url": "https://www.site24x7.com/mobile-apm.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        },
+        {
+          "text": "DNS server",
+          "url": "https://www.site24x7.com/dns-monitoring.html"
+        },
+        {
+          "text": "130+ global locations",
+          "url": "https://www.site24x7.com/multi-location-web-site-monitoring.html"
+        },
+        {
+          "text": "wireless carriers",
+          "url": "https://www.site24x7.com/mobile-monitoring.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/synthetic-monitoring.html"
+        },
+        {
+          "text": "routers",
+          "url": "https://www.site24x7.com/router-monitoring.html"
+        },
+        {
+          "text": "switches",
+          "url": "https://www.site24x7.com/switch-monitoring.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/log-management.html"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/aiops.html"
+        }
+      ],
+      "Server Monitoring": [
+        {
+          "text": "Server Monitoring",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        }
+      ],
+      "Application Performance Monitoring": [
+        {
+          "text": "Application Performance Monitoring",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        }
+      ],
+      "Website Monitoring": [
+        {
+          "text": "Website Monitoring",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        }
+      ],
+      "Real User Monitoring": [
+        {
+          "text": "Real User Monitoring",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        }
+      ],
+      "Synthetic Web Transaction Monitoring": [
+        {
+          "text": "Synthetic Web Transaction Monitoring",
+          "url": "https://www.site24x7.com/synthetic-monitoring.html"
+        }
+      ],
+      "Network Monitoring": [
+        {
+          "text": "Network Monitoring",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        }
+      ],
+      "Log Management from the Cloud": [
+        {
+          "text": "Log Management from the Cloud",
+          "url": "https://www.site24x7.com/log-management.html"
+        }
+      ],
+      "IT Monitoring Powered by AIOps": [
+        {
+          "text": "IT Monitoring Powered by AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        }
+      ],
+      "RMM for MSPs and CSPs": [
+        {
+          "text": "RMM for MSPs and CSPs",
+          "url": "https://www.site24x7.com/msp/"
+        }
+      ],
+      "Build a resilient cloud": [
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/msp/"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/statusiq/"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://www.site24x7.com/digital-risk-analyzer/"
+        }
+      ],
+      "Public Status Pages": [
+        {
+          "text": "Public Status Pages",
+          "url": "https://www.site24x7.com/statusiq/"
+        }
+      ],
+      "Digital Risk Assessment": [
+        {
+          "text": "Digital Risk Assessment",
+          "url": "https://www.site24x7.com/digital-risk-analyzer/"
+        }
+      ],
+      "": [
+        {
+          "text": "Read more",
+          "url": "https://www.site24x7.com/casestudies/tecracer.html"
+        }
+      ],
+      "All-in-one monitoring solution": [
+        {
+          "text": "Website",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        },
+        {
+          "text": "Synthetic",
+          "url": "https://www.site24x7.com/synthetic-monitoring.html"
+        },
+        {
+          "text": "Server",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        },
+        {
+          "text": "Public and Private Cloud",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
+        },
+        {
+          "text": "Network",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        },
+        {
+          "text": "Application Performance",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        },
+        {
+          "text": "Real User Monitoring",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        },
+        {
+          "text": "AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        },
+        {
+          "text": "MSP",
+          "url": "https://www.site24x7.com/msp/"
+        },
+        {
+          "text": "Digital Experience Monitoring",
+          "url": "https://www.site24x7.com/digital-experience-monitoring.html"
+        },
+        {
+          "text": "Uptime Monitoring",
+          "url": "https://www.site24x7.com/uptime-monitoring.html"
+        },
+        {
+          "text": "Webpage Speed Monitoring",
+          "url": "https://www.site24x7.com/web-page-analysis.html"
+        },
+        {
+          "text": "Monitoring Locations",
+          "url": "https://www.site24x7.com/multi-location-web-site-monitoring.html"
+        },
+        {
+          "text": "DNS Monitoring",
+          "url": "https://www.site24x7.com/dns-monitoring.html"
+        },
+        {
+          "text": "REST API Monitoring",
+          "url": "https://www.site24x7.com/rest-api-monitoring.html"
+        },
+        {
+          "text": "Hosted Status Pages",
+          "url": "https://www.site24x7.com/statusiq/"
+        },
+        {
+          "text": "Free Website Monitoring",
+          "url": "https://www.site24x7.com/free-website-monitoring-tool.html"
+        },
+        {
+          "text": "Link",
+          "url": "https://www.site24x7.com/training.html"
+        },
+        {
+          "text": "Link",
+          "url": "https://www.site24x7.com/webinars/digital-experience-monitoring.html"
+        },
+        {
+          "text": "Log Management",
+          "url": "https://www.site24x7.com/log-management.html"
+        },
+        {
+          "text": "Full-stack Observability",
+          "url": "https://www.site24x7.com/full-stack-observability.html"
+        },
+        {
+          "text": "Java Monitoring",
+          "url": "https://www.site24x7.com/java-application-monitor.html"
+        },
+        {
+          "text": ".NET Monitoring",
+          "url": "https://www.site24x7.com/microsoft-net-application-monitor.html"
+        },
+        {
+          "text": "Python Monitoring",
+          "url": "https://www.site24x7.com/python-monitoring.html"
+        },
+        {
+          "text": "Node.js Monitoring",
+          "url": "https://www.site24x7.com/node-js-monitoring.html"
+        },
+        {
+          "text": "Mobile Application Monitoring",
+          "url": "https://www.site24x7.com/mobile-apm.html"
+        },
+        {
+          "text": "Find IP Address",
+          "url": "https://www.site24x7.com/find-ip-address-of-web-site.html"
+        },
+        {
+          "text": "Check Website Availability",
+          "url": "https://www.site24x7.com/check-website-availability.html"
+        },
+        {
+          "text": "Analyze Webpage",
+          "url": "https://www.site24x7.com/web-page-analyzer.html"
+        },
+        {
+          "text": "DNS Analysis",
+          "url": "https://www.site24x7.com/dns-lookup.html"
+        },
+        {
+          "text": "Find Location",
+          "url": "https://www.site24x7.com/find-website-location.html"
+        },
+        {
+          "text": "Webpage Speed Test",
+          "url": "https://www.site24x7.com/tools/web-speed-report.html"
+        },
+        {
+          "text": "NewRelic Alternative",
+          "url": "https://www.site24x7.com/newrelic-alternative.html"
+        },
+        {
+          "text": "Datadog Alternative",
+          "url": "https://www.site24x7.com/datadog-alternative.html"
+        },
+        {
+          "text": "AppDynamics Alternative",
+          "url": "https://www.site24x7.com/appdynamics-alternative.html"
+        },
+        {
+          "text": "Solarwinds Alternative",
+          "url": "https://www.site24x7.com/solarwinds-alternative.html"
+        },
+        {
+          "text": "Dynatrace Alternative",
+          "url": "https://www.site24x7.com/dynatrace-alternative.html"
+        },
+        {
+          "text": "Infrastructure Monitoring",
+          "url": "https://www.site24x7.com/infrastructure-monitoring.html"
+        },
+        {
+          "text": "Windows Monitoring",
+          "url": "https://www.site24x7.com/windows-monitoring.html"
+        },
+        {
+          "text": "Linux Monitoring",
+          "url": "https://www.site24x7.com/linux-monitoring.html"
+        },
+        {
+          "text": "Kubernetes Monitoring",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "VMware Monitoring",
+          "url": "https://www.site24x7.com/vmware-monitoring.html"
+        },
+        {
+          "text": "Database Monitoring",
+          "url": "https://www.site24x7.com/database-monitoring.html"
+        },
+        {
+          "text": "Site24x7 Plugins",
+          "url": "https://www.site24x7.com/plugins.html"
+        },
+        {
+          "text": "AWS Monitoring",
+          "url": "https://www.site24x7.com/aws-monitoring.html"
+        },
+        {
+          "text": "Azure Monitoring",
+          "url": "https://www.site24x7.com/azure/"
+        },
+        {
+          "text": "GCP Monitoring",
+          "url": "https://www.site24x7.com/gcp/"
+        },
+        {
+          "text": "OCI Monitoring",
+          "url": "https://www.site24x7.com/oci-monitoring.html"
+        },
+        {
+          "text": "Network Traffic Monitoring",
+          "url": "https://www.site24x7.com/network-traffic-monitoring.html"
+        },
+        {
+          "text": "Network Configuration Manager",
+          "url": "https://www.site24x7.com/network-configuration-manager.html"
+        },
+        {
+          "text": "VPN Monitoring",
+          "url": "https://www.site24x7.com/vpn-monitoring.html"
+        },
+        {
+          "text": "Network Device Vendors",
+          "url": "https://www.site24x7.com/network/device-vendors.html"
+        },
+        {
+          "text": "Plans & Pricing",
+          "url": "https://www.site24x7.com/site24x7-pricing.html"
+        },
+        {
+          "text": "ROI Calculator",
+          "url": "https://www.site24x7.com/roi-calculator.html"
+        },
+        {
+          "text": "All resources",
+          "url": "https://www.site24x7.com/resource.html"
+        },
+        {
+          "text": "Blog",
+          "url": "https://www.site24x7.com/blog/"
+        },
+        {
+          "text": "Community",
+          "url": "https://www.site24x7.com/community/"
+        },
+        {
+          "text": "Learn",
+          "url": "https://www.site24x7.com/learn/"
+        },
+        {
+          "text": "Help Documentation",
+          "url": "https://www.site24x7.com/help/"
+        },
+        {
+          "text": "API",
+          "url": "https://www.site24x7.com/help/api/"
+        },
+        {
+          "text": "Webinars",
+          "url": "https://www.site24x7.com/webinars.html"
+        },
+        {
+          "text": "Security Reports",
+          "url": "https://www.site24x7.com/security-reports"
+        },
+        {
+          "text": "Analyst Recognitions",
+          "url": "https://www.site24x7.com/analyst-recognitions.html"
+        },
+        {
+          "text": "Cheatsheet",
+          "url": "https://www.site24x7.com/cheatsheet/"
+        },
+        {
+          "text": "About Site24x7",
+          "url": "https://www.site24x7.com/about-site24x7.html"
+        },
+        {
+          "text": "Our Customers",
+          "url": "https://www.site24x7.com/customers.html"
+        },
+        {
+          "text": "Testimonials",
+          "url": "https://www.site24x7.com/site24x7-testimonials.html"
+        },
+        {
+          "text": "Press Releases",
+          "url": "https://www.site24x7.com/news/"
+        },
+        {
+          "text": "Events",
+          "url": "https://www.site24x7.com/events.html"
+        },
+        {
+          "text": "Newsletter",
+          "url": "https://www.site24x7.com/newsletter/"
+        },
+        {
+          "text": "Contact Support",
+          "url": "https://www.site24x7.com/contact-support.html"
+        },
+        {
+          "text": "Request Demo",
+          "url": "https://www.site24x7.com/schedule-demo.html"
+        },
+        {
+          "text": "Become a Partner",
+          "url": "https://www.site24x7.com/partners.html"
+        },
+        {
+          "text": "What's New",
+          "url": "https://www.site24x7.com/whats-new-in-site24x7.html"
+        },
+        {
+          "text": "Site24x7 Service Status",
+          "url": "https://status.site24x7.com"
+        }
+      ],
+      "ManageEngine ITOM (On-premises)": [
+        {
+          "text": "ManageEngine ITOM (On-premises)",
+          "url": "https://www.site24x7.com/me-itom-solutions.html"
+        }
+      ],
+      "Engage with us on": [
+        {
+          "text": "Get latest updates",
+          "url": "https://www.site24x7.com/whats-new-feed.rss"
+        }
+      ]
+    }
+  }
+}

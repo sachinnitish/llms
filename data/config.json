@@ -1,0 +1,7 @@
+{
+  "model": "gemini/gemini-1.5-flash",
+  "provider": "Gemini",
+  "api_key": "AIzaSyBPypMPd6YXHwmNwFj_cYkIR9evG9zjwNs",
+  "source_name": "Site24x7",
+  "root_url": "https://www.site24x7.com/"
+}
