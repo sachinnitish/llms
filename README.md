@@ -9,7 +9,7 @@ The project includes convenience scripts for automated setup and execution.
 ### Windows
 1. **Setup**: Edit properties and tick the unblock option on `.\windows\setup.bat`, then double click to create a virtual environment and install dependencies.
 2. **Run**: Edit properties and tick the unblock option on `.\windows\run.bat` then double click to launch the application.
-3. **Reset**: Double-click `.\windows\teardown.bat` if you need to clear the environment and cache.
+3. **Reset**: Edit properties and tick the unblock option on `.\windows\teardown.bat` then double click if you need to clear the environment and cache.
 
 ### Unix / macOS
 1. **Open Terminal** in the project directory.
