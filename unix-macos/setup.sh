@@ -66,6 +66,14 @@ else
     echo "[WARNING] requirements.txt not found."
 fi
 
+echo "[INFO] Installing Playwright Chromium browser..."
+playwright install chromium
+if [ $? -ne 0 ]; then
+    echo "[ERROR] Failed to install Playwright browser. Run 'playwright install chromium' manually."
+    exit 1
+fi
+echo "[OK] Playwright Chromium installed."
+
 echo "==================================================="
 echo "Setup Complete!"
 echo ""

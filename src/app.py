@@ -6,17 +6,27 @@ from state_manager import StateManager
 from config_manager import ConfigManager
 from extractor import process_single_page
 import json
+from urllib.parse import urlparse
 
-DEFAULT_PROMPT = """You are an expert technical writer. 
-Generate a standard `llms.txt` body based on the JSON Link Tree provided below.
+DEFAULT_PROMPT_TEMPLATE = """You are an expert technical writer specializing in the llms.txt specification.
+Generate a standard `llms.txt` body from the JSON Link Tree below for the website: {url}
 
-### CONSTRAINTS:
-1. **Format**: Use strict Markdown.
-2. **Structure**: 
+### CONTEXT CLUES — use these to make smarter grouping decisions:
+- **Domain**: {domain}
+- **URL path segments** (e.g. `/docs/`, `/api/`, `/blog/`, `/pricing/`) reveal the site's structure — use them to name and group sections accurately.
+- **Existing category labels** in the JSON come from the page's own headings and nav landmarks — treat them as strong hints, but merge duplicates and rename vague ones (e.g. "General", "Footer", "Header Navigation") into meaningful section names based on the URLs they contain.
+
+### OUTPUT RULES:
+1. **Format**: Strict Markdown only.
+2. **Structure**:
    ## [Logical Section Name]
-   - [Link Text](URL): A concise, 1-sentence description.
-3. **Drafting**: Group the links from the JSON into logical, premium categories (e.g., Features, Resources, API, Support).
-4. **No Preamble**: Provide ONLY the raw Markdown content. Do not include "Here is the file" or any other conversational text.
+   - [Descriptive Link Title](URL): One concise sentence describing what this page covers.
+3. **Grouping**:
+   - Merge near-duplicate categories (e.g. "Docs", "Documentation", "documentation" → ## Documentation).
+   - Rename structural/layout categories ("General", "Footer", "Header Navigation") to reflect their actual content based on the URLs they contain.
+   - Infer missing context from URL path segments when link text is ambiguous.
+   - Suggested sections (use only those relevant): Documentation, API Reference, Guides & Tutorials, Blog, Pricing, Use Cases, Integrations, Company, Legal, Support.
+4. **No Preamble**: Output ONLY raw Markdown. No intro sentence, no explanation.
 
 Link Tree Data:
 """
@@ -293,7 +303,12 @@ if root_url:
         st.markdown(f'<div class="custom-header">{get_icon("generate", 18)} 3. Generate llms.txt</div>', unsafe_allow_html=True)
         st.markdown('<div class="sub-text">Copy the prompt below for AI synthesis.</div>', unsafe_allow_html=True)
         
-        combined_prompt = f"{DEFAULT_PROMPT}\n\n{json.dumps(link_tree, indent=2)}"
+        parsed_url = urlparse(root_url)
+        prompt_header = DEFAULT_PROMPT_TEMPLATE.format(
+            url=root_url,
+            domain=parsed_url.netloc,
+        )
+        combined_prompt = f"{prompt_header}\n{json.dumps(link_tree, indent=2)}"
         
         # Standard code block for native copy button
         st.code(combined_prompt, language="markdown")
