@@ -1,1677 +1,977 @@
 {
-  "https://www.zoho.com/en-in/crm/": {
+  "https://www.site24x7.com/": {
     "status": "extracted",
     "link_tree": {
-      "Zwc Global Header Skip": [
+      "Primary Menu": [
         {
-          "text": "Skip to product menu",
-          "url": "https://www.zoho.com/en-in/crm/#zw-product-header-skip"
+          "text": "Link",
+          "url": "https://www.site24x7.com/"
+        },
+        {
+          "text": "Pricing",
+          "url": "https://www.site24x7.com/site24x7-pricing.html"
+        },
+        {
+          "text": "Demo",
+          "url": "https://www.site24x7.com/schedule-demo.html"
+        },
+        {
+          "text": "Support",
+          "url": "https://www.site24x7.com/contact-support.html"
+        },
+        {
+          "text": "Free Tools",
+          "url": "https://www.site24x7.com/tools/"
+        },
+        {
+          "text": "Enterprise",
+          "url": "https://www.site24x7.com/enterprise/"
+        },
+        {
+          "text": "Log in",
+          "url": "https://www.site24x7.com/login.html"
         }
       ],
-      "Zoho.comBiginSimple CRM for small businesses moving from spreadsheets.CRM PlusUnified platform to deliver top-notch customer experience.DeskHelpdesk software to deliver great customer support.CampaignsCreate, send, and track targeted email campaigns that drive sales.POSModern retail POS to sell better, manage your entire business, and join the digital revolution.MailSecure email service for teams of all sizes.All ProductsEnglish (India)English (Global)Espa\u00f1olPortugu\u00eas (Brasil)DeutschFran\u00e7aisNederlands\u65e5\u672c\u8a9e\u0627\u0644\u0639\u0631\u0628\u064a\u0629Bahasa Indonesia\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22Ti\u1ebfng Vi\u1ec7t\u7b80\u4f53\u4e2d\u6587Fran\u00e7ais (Canada)\u7e41\u4f53\u4e2d\u6587\u05e2\u05d1\u05e8\u05d9\u05ea\ud55c\uad6d\uc5b4Sign InSign Up For Free": [
+      "Synthetics and RUM": [
         {
-          "text": "Zoho.com",
-          "url": "https://www.zoho.com/"
+          "text": "Website monitoring",
+          "url": "https://www.site24x7.com/website-monitoring.html"
         },
         {
-          "text": "English (Global)",
-          "url": "https://www.zoho.com/crm/"
+          "text": "Multi-step transaction monitoring",
+          "url": "https://www.site24x7.com/synthetic-transaction-monitoring.html"
         },
         {
-          "text": "Espa\u00f1ol",
-          "url": "https://www.zoho.com/es-xl/crm/"
+          "text": "Real user monitoring (RUM)",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
         },
         {
-          "text": "Portugu\u00eas (Brasil)",
-          "url": "https://www.zoho.com/pt-br/crm/"
-        },
-        {
-          "text": "Deutsch",
-          "url": "https://www.zoho.com/de/crm/"
-        },
-        {
-          "text": "Fran\u00e7ais",
-          "url": "https://www.zoho.com/fr/crm/"
-        },
-        {
-          "text": "Nederlands",
-          "url": "https://www.zoho.com/nl/crm/"
-        },
-        {
-          "text": "\u65e5\u672c\u8a9e",
-          "url": "https://www.zoho.com/jp/crm/"
-        },
-        {
-          "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-          "url": "https://www.zoho.com/ar/crm/"
-        },
-        {
-          "text": "Bahasa Indonesia",
-          "url": "https://www.zoho.com/id/crm/"
-        },
-        {
-          "text": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
-          "url": "https://www.zoho.com/th/crm/"
-        },
-        {
-          "text": "Ti\u1ebfng Vi\u1ec7t",
-          "url": "https://www.zoho.com/vi/crm/"
-        },
-        {
-          "text": "\u7b80\u4f53\u4e2d\u6587",
-          "url": "https://www.zoho.com.cn/crm/"
-        },
-        {
-          "text": "Fran\u00e7ais (Canada)",
-          "url": "https://www.zoho.com/fr-ca/crm/"
-        },
-        {
-          "text": "\u7e41\u4f53\u4e2d\u6587",
-          "url": "https://www.zoho.com/zh-hant/crm/"
-        },
-        {
-          "text": "\u05e2\u05d1\u05e8\u05d9\u05ea",
-          "url": "https://www.zoho.com/he/crm/"
-        },
-        {
-          "text": "\ud55c\uad6d\uc5b4",
-          "url": "https://www.zoho.com/ko/crm/"
-        },
-        {
-          "text": "Sign In",
-          "url": "https://accounts.zoho.in/signin"
-        },
-        {
-          "text": "Sign Up For Free",
-          "url": "https://www.zoho.com/crm/signup.html"
+          "text": "Mobile RUM",
+          "url": "https://www.site24x7.com/mobile-rum.html"
         }
       ],
-      "Zgh Nav": [
+      "Logs": [
         {
-          "text": "Bigin",
-          "url": "https://www.zoho.com/bigin/"
+          "text": "Log management",
+          "url": "https://www.site24x7.com/log-management.html"
+        }
+      ],
+      "Observability": [
+        {
+          "text": "Application performance monitoring",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
         },
         {
-          "text": "CRM Plus",
-          "url": "https://www.zoho.com/crm/crmplus/"
+          "text": "Database monitoring",
+          "url": "https://www.site24x7.com/database-monitoring.html"
         },
         {
-          "text": "Desk",
-          "url": "https://www.zoho.com/desk/"
+          "text": "Plugin integrations",
+          "url": "https://www.site24x7.com/plugins.html"
         },
         {
-          "text": "Campaigns",
-          "url": "https://www.zoho.com/campaigns/"
+          "text": "Cloud cost management",
+          "url": "https://www.manageengine.com/cloudspend/"
+        }
+      ],
+      "Infrastructure": [
+        {
+          "text": "Server monitoring",
+          "url": "https://www.site24x7.com/server-monitoring.html"
         },
         {
-          "text": "POS",
-          "url": "https://www.zoho.com/en-in/pos/"
+          "text": "AWS monitoring",
+          "url": "https://www.site24x7.com/aws-monitoring.html"
         },
         {
-          "text": "Mail",
-          "url": "https://www.zoho.com/mail/"
+          "text": "Azure monitoring",
+          "url": "https://www.site24x7.com/azure/"
+        },
+        {
+          "text": "GCP monitoring",
+          "url": "https://www.site24x7.com/gcp/"
+        },
+        {
+          "text": "OCI monitoring",
+          "url": "https://www.site24x7.com/oci-monitoring.html"
+        },
+        {
+          "text": "Kubernetes monitoring",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "Virtualization monitoring",
+          "url": "https://www.site24x7.com/virtualization-monitoring.html"
+        }
+      ],
+      "Platform": [
+        {
+          "text": "AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        },
+        {
+          "text": "Integrations",
+          "url": "https://www.site24x7.com/integrations.html"
+        }
+      ],
+      "Network": [
+        {
+          "text": "Network monitoring",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        },
+        {
+          "text": "On-Prem",
+          "url": "https://www.manageengine.com/network-monitoring/"
+        },
+        {
+          "text": "Network traffic monitoring",
+          "url": "https://www.site24x7.com/network-traffic-monitoring.html"
+        },
+        {
+          "text": "On-Prem",
+          "url": "https://www.manageengine.com/products/netflow/"
+        },
+        {
+          "text": "Network configuration management",
+          "url": "https://www.site24x7.com/network-configuration-manager.html"
+        },
+        {
+          "text": "On-Prem",
+          "url": "https://www.manageengine.com/network-configuration-manager/"
+        },
+        {
+          "text": "IP and switch management",
+          "url": "https://www.site24x7.com/ip-address-management.html"
+        },
+        {
+          "text": "On-Prem",
+          "url": "https://www.manageengine.com/products/oputils/"
+        }
+      ],
+      "Others": [
+        {
+          "text": "Incident communication",
+          "url": "https://www.site24x7.com/statusiq/"
+        },
+        {
+          "text": "Third-party risk assessment",
+          "url": "https://www.site24x7.com/digital-risk-analyzer/"
+        },
+        {
+          "text": "MSP",
+          "url": "https://www.site24x7.com/msp/"
+        }
+      ],
+      "Product Dropdown": [
+        {
+          "text": "All features",
+          "url": "https://www.site24x7.com/features.html"
+        },
+        {
+          "text": "Get a quote",
+          "url": "https://www.site24x7.com/custom-pricing.html"
+        },
+        {
+          "text": "Schedule demo",
+          "url": "https://www.site24x7.com/schedule-demo.html"
+        }
+      ],
+      "Dropdown Column Filled": [
+        {
+          "text": "Resources Explore e-books, whitepapers and more.",
+          "url": "https://www.site24x7.com/resource.html"
+        },
+        {
+          "text": "Solutions Explore solutions by need, industry, role, and scale.",
+          "url": "https://www.site24x7.com/solutions/"
+        },
+        {
+          "text": "Blogs Read insights, trends, and expert opinions.",
+          "url": "https://www.site24x7.com/blog/"
+        }
+      ],
+      "Get started": [
+        {
+          "text": "Help Docs",
+          "url": "https://www.site24x7.com/help/"
+        },
+        {
+          "text": "API Docs",
+          "url": "https://www.site24x7.com/help/api/"
+        },
+        {
+          "text": "Community",
+          "url": "https://www.site24x7.com/community/"
+        },
+        {
+          "text": "Training",
+          "url": "https://www.site24x7.com/training.html"
+        },
+        {
+          "text": "Videos",
+          "url": "https://www.site24x7.com/videos/"
+        }
+      ],
+      "Become an expert": [
+        {
+          "text": "Webinars",
+          "url": "https://www.site24x7.com/webinars.html"
+        },
+        {
+          "text": "Site24x7 Academy",
+          "url": "https://www.site24x7.com/academy.html"
+        },
+        {
+          "text": "Whitepapers",
+          "url": "https://www.site24x7.com/whitepapers/"
+        },
+        {
+          "text": "eBooks",
+          "url": "https://www.site24x7.com/ebook/"
+        },
+        {
+          "text": "Learn",
+          "url": "https://www.site24x7.com/learn/"
+        },
+        {
+          "text": "IT Glossary",
+          "url": "https://www.site24x7.com/it-glossary/"
+        }
+      ],
+      "Built for business": [
+        {
+          "text": "Case studies",
+          "url": "https://www.site24x7.com/casestudies/"
+        },
+        {
+          "text": "Customers",
+          "url": "https://www.site24x7.com/customers.html"
+        },
+        {
+          "text": "Partner with us",
+          "url": "https://www.site24x7.com/partners.html"
+        },
+        {
+          "text": "Testimonials",
+          "url": "https://www.site24x7.com/site24x7-testimonials.html"
+        }
+      ],
+      "Technical solutions": [
+        {
+          "text": "Hybrid cloud monitoring",
+          "url": "https://www.site24x7.com/solutions/hybrid-cloud-monitoring.html"
+        },
+        {
+          "text": "Cloud-native observability",
+          "url": "https://www.site24x7.com/solutions/cloud-native-observability.html"
+        },
+        {
+          "text": "Network resilience",
+          "url": "https://www.site24x7.com/solutions/network-resilience.html"
+        },
+        {
+          "text": "Log management",
+          "url": "https://www.site24x7.com/solutions/boost-business-operations-with-log-management.html"
+        },
+        {
+          "text": "AIOps for DevOps",
+          "url": "https://www.site24x7.com/solutions/aiops-for-devops.html"
+        },
+        {
+          "text": "Digital experience monitoring",
+          "url": "https://www.site24x7.com/solutions/digital-experience-monitoring.html"
+        }
+      ],
+      "Log InSign UpInput field": [
+        {
+          "text": "Log In",
+          "url": "https://www.site24x7.com/login.html"
+        }
+      ],
+      "Nav Signup Btn": [
+        {
+          "text": "Sign Up",
+          "url": "https://www.site24x7.com/signup.html"
+        }
+      ],
+      "General": [
+        {
+          "text": "Slow pages affecting revenue? Free webinar March 10. Turn digital friction into revenue! Register Now",
+          "url": "https://www.site24x7.com/webinars/digital-experience-monitoring.html"
+        },
+        {
+          "text": "Request Demo",
+          "url": "https://www.site24x7.com/schedule-demo.html"
+        },
+        {
+          "text": "Get Quote",
+          "url": "https://www.site24x7.com/custom-pricing.html"
+        },
+        {
+          "text": "Cookie Settings",
+          "url": "https://www.site24x7.com/cookiepolicy.html"
+        }
+      ],
+      "AI-poweredmonitoring for modern IT": [
+        {
+          "text": "Start your 30-day free trial",
+          "url": "https://www.site24x7.com/signup.html"
+        }
+      ],
+      "All-in-one Monitoring Solution": [
+        {
+          "text": "Website Monitoring",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        },
+        {
+          "text": "Server Monitoring",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        },
+        {
+          "text": "Cloud Monitoring",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
+        },
+        {
+          "text": "Application Performance",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        },
+        {
+          "text": "Kubernetes Monitoring",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "Network Monitoring",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        },
+        {
+          "text": "Real User Monitoring",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        },
+        {
+          "text": "Synthetic Transactions",
+          "url": "https://www.site24x7.com/synthetic-transaction-monitoring.html"
+        },
+        {
+          "text": "Log Management",
+          "url": "https://www.site24x7.com/log-management.html"
+        },
+        {
+          "text": "AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        }
+      ],
+      "Public and Private Cloud Monitoring": [
+        {
+          "text": "Public and Private Cloud Monitoring",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
+        }
+      ],
+      "Features Overview": [
+        {
+          "text": "Amazon Web Services",
+          "url": "https://www.site24x7.com/aws-monitoring.html"
+        },
+        {
+          "text": "Azure",
+          "url": "https://www.site24x7.com/azure/"
+        },
+        {
+          "text": "GCP",
+          "url": "https://www.site24x7.com/gcp/"
+        },
+        {
+          "text": "VMware",
+          "url": "https://www.site24x7.com/vmware-monitoring.html"
+        },
+        {
+          "text": "Public and Private Cloud Monitoring",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
+        },
+        {
+          "text": "Windows",
+          "url": "https://www.site24x7.com/windows-monitoring.html"
+        },
+        {
+          "text": "Linux",
+          "url": "https://www.site24x7.com/linux-monitoring.html"
+        },
+        {
+          "text": "FreeBSD",
+          "url": "https://www.site24x7.com/freebsd-monitoring.html"
+        },
+        {
+          "text": "Nutanix",
+          "url": "https://www.site24x7.com/nutanix-monitoring.html"
+        },
+        {
+          "text": "Docker",
+          "url": "https://www.site24x7.com/docker-monitoring.html"
+        },
+        {
+          "text": "Kubernetes",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "Server Monitoring",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        },
+        {
+          "text": "Java",
+          "url": "https://www.site24x7.com/java-application-monitor.html"
+        },
+        {
+          "text": ".NET",
+          "url": "https://www.site24x7.com/microsoft-net-application-monitor.html"
+        },
+        {
+          "text": "Ruby",
+          "url": "https://www.site24x7.com/ruby-monitoring.html"
+        },
+        {
+          "text": "PHP",
+          "url": "https://www.site24x7.com/php-monitoring.html"
+        },
+        {
+          "text": "Node.js",
+          "url": "https://www.site24x7.com/node-js-monitoring.html"
+        },
+        {
+          "text": "mobile platforms",
+          "url": "https://www.site24x7.com/mobile-apm.html"
+        },
+        {
+          "text": "Application Performance Monitoring",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        },
+        {
+          "text": "DNS server",
+          "url": "https://www.site24x7.com/dns-monitoring.html"
+        },
+        {
+          "text": "130+ global locations",
+          "url": "https://www.site24x7.com/multi-location-web-site-monitoring.html"
+        },
+        {
+          "text": "wireless carriers",
+          "url": "https://www.site24x7.com/mobile-monitoring.html"
+        },
+        {
+          "text": "Website Monitoring",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        },
+        {
+          "text": "Real User Monitoring",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        },
+        {
+          "text": "Synthetic Web Transaction Monitoring",
+          "url": "https://www.site24x7.com/synthetic-monitoring.html"
+        },
+        {
+          "text": "routers",
+          "url": "https://www.site24x7.com/router-monitoring.html"
+        },
+        {
+          "text": "switches",
+          "url": "https://www.site24x7.com/switch-monitoring.html"
+        },
+        {
+          "text": "Network Monitoring",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        },
+        {
+          "text": "Log Management from the Cloud",
+          "url": "https://www.site24x7.com/log-management.html"
+        },
+        {
+          "text": "IT Monitoring Powered by AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        }
+      ],
+      "Server Monitoring": [
+        {
+          "text": "Server Monitoring",
+          "url": "https://www.site24x7.com/server-monitoring.html"
+        }
+      ],
+      "Application Performance Monitoring": [
+        {
+          "text": "Application Performance Monitoring",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
+        }
+      ],
+      "Website Monitoring": [
+        {
+          "text": "Website Monitoring",
+          "url": "https://www.site24x7.com/website-monitoring.html"
+        }
+      ],
+      "Real User Monitoring": [
+        {
+          "text": "Real User Monitoring",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
+        }
+      ],
+      "Synthetic Web Transaction Monitoring": [
+        {
+          "text": "Synthetic Web Transaction Monitoring",
+          "url": "https://www.site24x7.com/synthetic-monitoring.html"
+        }
+      ],
+      "Network Monitoring": [
+        {
+          "text": "Network Monitoring",
+          "url": "https://www.site24x7.com/network-monitoring.html"
+        }
+      ],
+      "Log Management from the Cloud": [
+        {
+          "text": "Log Management from the Cloud",
+          "url": "https://www.site24x7.com/log-management.html"
+        }
+      ],
+      "IT Monitoring Powered by AIOps": [
+        {
+          "text": "IT Monitoring Powered by AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
+        }
+      ],
+      "RMM for MSPs and CSPs": [
+        {
+          "text": "RMM for MSPs and CSPs",
+          "url": "https://www.site24x7.com/msp/"
+        }
+      ],
+      "Build a resilient cloud": [
+        {
+          "text": "RMM for MSPs and CSPs",
+          "url": "https://www.site24x7.com/msp/"
+        },
+        {
+          "text": "Public Status Pages",
+          "url": "https://www.site24x7.com/statusiq/"
+        },
+        {
+          "text": "Digital Risk Assessment",
+          "url": "https://www.site24x7.com/digital-risk-analyzer/"
+        }
+      ],
+      "Public Status Pages": [
+        {
+          "text": "Public Status Pages",
+          "url": "https://www.site24x7.com/statusiq/"
+        }
+      ],
+      "Digital Risk Assessment": [
+        {
+          "text": "Digital Risk Assessment",
+          "url": "https://www.site24x7.com/digital-risk-analyzer/"
         }
       ],
       "": [
         {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/en-in/crm/"
-        },
-        {
-          "text": "SIGN IN",
-          "url": "https://accounts.zoho.in/signin"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/crm/signup.html"
+          "text": "Whycustomerschoose us",
+          "url": "https://www.site24x7.com/casestudies/tecracer.html"
         }
       ],
-      "Leaf": [
+      "All-in-one monitoring solution": [
         {
-          "text": "Features",
-          "url": "https://www.zoho.com/crm/features.html"
+          "text": "Website",
+          "url": "https://www.site24x7.com/website-monitoring.html"
         },
         {
-          "text": "Platform",
-          "url": "https://www.zoho.com/crm/platform.html"
+          "text": "Synthetic",
+          "url": "https://www.site24x7.com/synthetic-monitoring.html"
         },
         {
-          "text": "Resources",
-          "url": "https://www.zoho.com/crm/resources/"
-        }
-      ],
-      "Hub Menu": [
-        {
-          "text": "AI",
-          "url": "https://www.zoho.com/crm/zia/index.html"
-        },
-        {
-          "text": "SFA",
-          "url": "https://www.zoho.com/crm/sales-force-automation/index.html"
-        },
-        {
-          "text": "Lead management",
-          "url": "https://www.zoho.com/crm/lead-management/index.html"
-        },
-        {
-          "text": "Process management",
-          "url": "https://www.zoho.com/crm/process-management/index.html"
-        },
-        {
-          "text": "Customization",
-          "url": "https://www.zoho.com/crm/customization/index.html"
-        },
-        {
-          "text": "BI",
-          "url": "https://www.zoho.com/crm/business-intelligence/index.html"
-        },
-        {
-          "text": "Verticals",
-          "url": "https://www.zoho.com/crm/verticals/"
-        },
-        {
-          "text": "Module 360",
-          "url": "https://www.zoho.com/crm/module360.html"
-        },
-        {
-          "text": "Low-code tools",
-          "url": "https://www.zoho.com/crm/low-code-tools/"
-        },
-        {
-          "text": "Developer tools",
-          "url": "https://www.zoho.com/crm/developer/"
-        },
-        {
-          "text": "Integrations",
-          "url": "https://www.zoho.com/crm/integrations.html"
-        },
-        {
-          "text": "Mobility",
-          "url": "https://www.zoho.com/crm/mobility.html"
-        },
-        {
-          "text": "Enterprise CRM",
-          "url": "https://www.zoho.com/crm/enterprise/"
-        },
-        {
-          "text": "Security and compliance",
-          "url": "https://www.zoho.com/crm/data-security/"
-        }
-      ],
-      "Sub Dropdown": [
-        {
-          "text": "AI Agents",
-          "url": "https://www.zoho.com/crm/zia/agentic-ai.html"
-        },
-        {
-          "text": "Generative AI",
-          "url": "https://www.zoho.com/crm/zia/generative-ai.html"
-        },
-        {
-          "text": "Prediction",
-          "url": "https://www.zoho.com/crm/zia/index.html"
-        },
-        {
-          "text": "AI for emails",
-          "url": "https://www.zoho.com/crm/zia/ai-for-emails.html"
-        },
-        {
-          "text": "Custom AI",
-          "url": "https://www.zoho.com/crm/zia/custom-ai-quickml-in-zoho-crm.html"
-        },
-        {
-          "text": "Forecasting",
-          "url": "https://www.zoho.com/crm/sales-force-automation/forecasting.html"
-        },
-        {
-          "text": "Pipeline",
-          "url": "https://www.zoho.com/crm/sales-force-automation/pipeline.html"
-        },
-        {
-          "text": "Territory management",
-          "url": "https://www.zoho.com/crm/sales-force-automation/territory-management.html"
-        },
-        {
-          "text": "CPQ",
-          "url": "https://www.zoho.com/crm/sales-force-automation/cpq.html"
-        },
-        {
-          "text": "Workflows",
-          "url": "https://www.zoho.com/crm/sales-force-automation/workflows.html"
-        },
-        {
-          "text": "Lead capture",
-          "url": "https://www.zoho.com/crm/lead-management/lead-generation.html"
-        },
-        {
-          "text": "Lead enrichment",
-          "url": "https://www.zoho.com/crm/lead-management/lead-enrichment.html"
-        },
-        {
-          "text": "Lead nurturing",
-          "url": "https://www.zoho.com/crm/lead-management/lead-nurturing.html"
-        },
-        {
-          "text": "Omni-channel communication",
-          "url": "https://www.zoho.com/crm/lead-management/omnichannel.html"
-        },
-        {
-          "text": "Cadences",
-          "url": "https://www.zoho.com/crm/process-management/cadences.html"
-        },
-        {
-          "text": "Blueprint",
-          "url": "https://www.zoho.com/crm/process-management/blueprint.html"
-        },
-        {
-          "text": "Page layouts",
-          "url": "https://www.zoho.com/crm/customization/layouts-components.html"
-        },
-        {
-          "text": "Kiosk",
-          "url": "https://www.zoho.com/crm/process-management/kiosk-studio.html"
-        },
-        {
-          "text": "Journey Orchestration",
-          "url": "https://www.zoho.com/crm/process-management/journey-orchestration.html"
-        },
-        {
-          "text": "CRM for everyone New",
-          "url": "https://www.zoho.com/crm/crm-for-everyone/"
-        },
-        {
-          "text": "Canvas Design Studio",
-          "url": "https://www.zoho.com/canvas/"
-        },
-        {
-          "text": "Client script",
-          "url": "https://www.zoho.com/crm/developer/client-scripts.html"
-        },
-        {
-          "text": "Sandbox",
-          "url": "https://www.zoho.com/crm/developer/sandbox.html"
-        },
-        {
-          "text": "Portals",
-          "url": "https://www.zoho.com/crm/customization/portals.html"
-        },
-        {
-          "text": "Automotive",
-          "url": "https://www.zoho.com/crm/verticals/automotive-crm/"
-        },
-        {
-          "text": "Life-sciences",
-          "url": "https://www.zoho.com/crm/verticals/life-sciences/"
-        },
-        {
-          "text": "Financial services",
-          "url": "https://www.zoho.com/crm/verticals/financial-services/"
-        },
-        {
-          "text": "See all verticals",
-          "url": "https://www.zoho.com/crm/verticals/"
-        },
-        {
-          "text": "Wizards",
-          "url": "https://www.zoho.com/crm/low-code-tools/wizards.html"
-        },
-        {
-          "text": "Queries",
-          "url": "https://www.zoho.com/crm/developer/queries.html"
-        },
-        {
-          "text": "Rest APIs",
-          "url": "https://www.zoho.com/crm/developer/api.html"
-        },
-        {
-          "text": "GraphQL APIs",
-          "url": "https://www.zoho.com/crm/developer/graphql-apis.html"
-        },
-        {
-          "text": "Functions",
-          "url": "https://www.zoho.com/crm/developer/functions.html"
-        },
-        {
-          "text": "Widgets",
-          "url": "https://www.zoho.com/crm/developer/widgets.html"
-        },
-        {
-          "text": "ZDK CLI",
-          "url": "https://www.zoho.com/crm/developer/zdk-cli.html"
-        },
-        {
-          "text": "Mobile and Web SDKs",
-          "url": "https://www.zoho.com/crm/developer/mobile-web-sdk.html"
-        },
-        {
-          "text": "Developer Edition",
-          "url": "https://www.zoho.com/crm/developer/developer-edition.html"
-        },
-        {
-          "text": "Role, profiles and teams",
-          "url": "https://www.zoho.com/crm/data-security/role-based-security.html"
-        },
-        {
-          "text": "Accessibility",
-          "url": "https://www.zoho.com/crm/data-security/accessibility.html"
-        },
-        {
-          "text": "GDPR",
-          "url": "https://www.zoho.com/crm/data-security/gdpr.html"
-        },
-        {
-          "text": "HIPAA",
-          "url": "https://www.zoho.com/crm/data-security/hipaa.html"
-        }
-      ],
-      "Dropdown Menu": [
-        {
-          "text": "See all features",
-          "url": "https://www.zoho.com/crm/features.html"
-        },
-        {
-          "text": "See all platform",
-          "url": "https://www.zoho.com/crm/platform.html"
-        },
-        {
-          "text": "User and admin docs",
-          "url": "https://www.zoho.com/crm/help/"
-        },
-        {
-          "text": "Developer docs",
-          "url": "https://www.zoho.com/crm/developer/docs/"
-        },
-        {
-          "text": "FAQs",
-          "url": "https://help.zoho.com/portal/en/kb/crm/faqs"
-        },
-        {
-          "text": "Ebooks",
-          "url": "https://www.zoho.com/crm/resources/ebooks/"
-        },
-        {
-          "text": "Find a Partner",
-          "url": "https://www.zoho.com/partners/find-partner-results.html"
-        },
-        {
-          "text": "Blogs",
-          "url": "https://www.zoho.com/crm/home-blogs.html"
-        },
-        {
-          "text": "Newsletter Archives",
-          "url": "https://www.zoho.com/crm/resources/digest.html"
-        },
-        {
-          "text": "CRM tips",
-          "url": "https://www.zoho.com/crm/resources/tips/"
-        },
-        {
-          "text": "One-minute videos",
-          "url": "https://www.zoho.com/crm/resources/videos/new-to-crm.html"
-        },
-        {
-          "text": "CRM glossary",
-          "url": "https://www.zoho.com/crm/resources/glossary.html"
-        },
-        {
-          "text": "Training",
-          "url": "https://www.zoho.com/crm/customer-success/"
-        },
-        {
-          "text": "Tutorials",
-          "url": "https://www.zoho.com/crm/tutorials/"
-        },
-        {
-          "text": "Videos",
-          "url": "https://www.zoho.com/crm/resources/videos/"
-        },
-        {
-          "text": "SDR Course",
-          "url": "https://www.zoho.com/crm/resources/courses.html"
-        },
-        {
-          "text": "Live webinars",
-          "url": "https://www.zoho.com/crm/webinars/"
-        },
-        {
-          "text": "Podcasts",
-          "url": "https://www.zoho.com/crm/podcasts.html"
-        },
-        {
-          "text": "CRM for Everyone",
-          "url": "https://www.zoho.com/crm/crm-for-everyone/resources.html"
-        },
-        {
-          "text": "Compare CRM options",
-          "url": "https://www.zoho.com/crm/compare/"
-        },
-        {
-          "text": "Support plans",
-          "url": "https://www.zoho.com/crm/support-plans.html"
-        },
-        {
-          "text": "Release notes",
-          "url": "https://www.zoho.com/crm/whats-new/release-notes.html"
-        },
-        {
-          "text": "See all resources",
-          "url": "https://www.zoho.com/crm/resources/"
-        }
-      ],
-      "Menu": [
-        {
-          "text": "Pricing",
-          "url": "https://www.zoho.com/crm/zohocrm-pricing.html"
-        },
-        {
-          "text": "Ask Zia",
-          "url": "https://www.zoho.com/crm/ask-zia.html"
-        }
-      ],
-      "Customers": [
-        {
-          "text": "Case Studies",
-          "url": "https://www.zoho.com/crm/customers/"
-        },
-        {
-          "text": "Use Cases",
-          "url": "https://www.zoho.com/crm/resources/usecases/"
-        },
-        {
-          "text": "Testimonials",
-          "url": "https://www.zoho.com/crm/customers/testimonials.html"
-        }
-      ],
-      "Free Tools": [
-        {
-          "text": "CRM Convert leads, close deals",
-          "url": "https://www.zoho.com/crm/signup.html"
-        },
-        {
-          "text": "Desk Resolve support tickets",
-          "url": "https://www.zoho.com/desk/signup.html"
-        },
-        {
-          "text": "Sign Sign documents digitally",
-          "url": "https://www.zoho.com/sign/signup.html"
-        },
-        {
-          "text": "Forms Build powerful forms",
-          "url": "https://www.zoho.com/forms/signup.html"
-        },
-        {
-          "text": "Creator Build custom apps faster",
-          "url": "https://www.zoho.com/creator/signup.html"
-        }
-      ],
-      "Mobile Menu Moreprd": [
-        {
-          "text": "All Zoho Products",
-          "url": "https://www.zoho.com/"
-        }
-      ],
-      "Category Tabs": [
-        {
-          "text": "EXPLORE ALL PRODUCTS",
-          "url": "https://www.zoho.com/all-products.html"
-        }
-      ],
-      "Zwc Global Menu Container": [
-        {
-          "text": "Connect with us",
-          "url": "https://www.zoho.com/contactus.html"
-        },
-        {
-          "text": "EXPLORE ALL PRODUCTS",
-          "url": "https://www.zoho.com/all-products.html"
-        },
-        {
-          "text": "CRM Plus",
-          "url": "https://www.zoho.com/crm/crmplus/"
-        },
-        {
-          "text": "Service Plus",
-          "url": "https://www.zoho.com/serviceplus/"
-        },
-        {
-          "text": "Finance Plus",
-          "url": "https://www.zoho.com/financeplus/"
-        },
-        {
-          "text": "People Plus",
-          "url": "https://www.zoho.com/peopleplus/"
-        },
-        {
-          "text": "Workplace",
-          "url": "https://www.zoho.com/workplace/"
-        },
-        {
-          "text": "Marketing Plus",
-          "url": "https://www.zoho.com/marketingplus/"
-        },
-        {
-          "text": "Projects Plus",
-          "url": "https://www.zoho.com/projectsplus/"
-        },
-        {
-          "text": "EXPLORE MARKETPLACE",
-          "url": "https://marketplace.zoho.com/home"
-        }
-      ],
-      "Recent Launches": [
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/erp/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/procurement/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/spend/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/mcp/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/en-in/pos/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/domains/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/payments/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/researchstudio/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/projectsplus/"
-        },
-        {
-          "text": "Recent Launches",
-          "url": "https://www.zoho.com/dap/"
-        }
-      ],
-      "Sales": [
-        {
-          "text": "CRM",
-          "url": "https://www.zoho.com/crm/"
-        },
-        {
-          "text": "Bigin",
-          "url": "https://www.zoho.com/bigin/"
-        },
-        {
-          "text": "Sign",
-          "url": "https://www.zoho.com/sign/"
-        },
-        {
-          "text": "SalesIQ",
-          "url": "https://www.zoho.com/salesiq/"
-        },
-        {
-          "text": "Forms",
-          "url": "https://www.zoho.com/forms/"
-        },
-        {
-          "text": "RouteIQ",
-          "url": "https://www.zoho.com/routeiq/"
-        },
-        {
-          "text": "POS",
-          "url": "https://www.zoho.com/en-in/pos/"
-        },
-        {
-          "text": "Bookings",
-          "url": "https://www.zoho.com/bookings/"
-        },
-        {
-          "text": "Thrive",
-          "url": "https://www.zoho.com/thrive/"
-        },
-        {
-          "text": "DAP",
-          "url": "https://www.zoho.com/dap/"
-        },
-        {
-          "text": "CRM Plus",
-          "url": "https://www.zoho.com/crm/crmplus/"
-        }
-      ],
-      "Marketing": [
-        {
-          "text": "Campaigns",
-          "url": "https://www.zoho.com/campaigns/"
-        },
-        {
-          "text": "Sign",
-          "url": "https://www.zoho.com/sign/"
-        },
-        {
-          "text": "SalesIQ",
-          "url": "https://www.zoho.com/salesiq/"
-        },
-        {
-          "text": "Forms",
-          "url": "https://www.zoho.com/forms/"
-        },
-        {
-          "text": "Backstage",
-          "url": "https://www.zoho.com/backstage/"
-        },
-        {
-          "text": "Social",
-          "url": "https://www.zoho.com/social/"
-        },
-        {
-          "text": "Survey",
-          "url": "https://www.zoho.com/survey/"
-        },
-        {
-          "text": "Marketing Automation",
-          "url": "https://www.zoho.com/marketingautomation/"
-        },
-        {
-          "text": "Sites",
-          "url": "https://www.zoho.com/sites/"
-        },
-        {
-          "text": "Webinar",
-          "url": "https://www.zoho.com/webinar/"
-        },
-        {
-          "text": "PageSense",
-          "url": "https://www.zoho.com/pagesense/"
-        },
-        {
-          "text": "LandingPage",
-          "url": "https://www.zoho.com/landingpage/"
-        },
-        {
-          "text": "LeadChain",
-          "url": "https://www.zoho.com/leadchain/"
-        },
-        {
-          "text": "Domains",
-          "url": "https://www.zoho.com/domains/"
-        },
-        {
-          "text": "CommunitySpaces",
-          "url": "https://www.zoho.com/communityspaces/"
-        },
-        {
-          "text": "Publish",
-          "url": "https://www.zoho.com/publish/"
-        },
-        {
-          "text": "Thrive",
-          "url": "https://www.zoho.com/thrive/"
-        },
-        {
-          "text": "Marketing Plus",
-          "url": "https://www.zoho.com/marketingplus/"
-        }
-      ],
-      "Commerce and POS": [
-        {
-          "text": "Commerce",
-          "url": "https://www.zoho.com/commerce/"
-        },
-        {
-          "text": "POS",
-          "url": "https://www.zoho.com/en-in/pos/"
-        }
-      ],
-      "Related software from other brands atZoho Corporation": [
-        {
-          "text": "Zoho Corporation",
-          "url": "https://www.zohocorp.com/"
-        },
-        {
-          "text": "Vikra",
-          "url": "https://vikra.com/"
-        },
-        {
-          "text": "Vani",
-          "url": "https://www.vanihq.com/"
-        },
-        {
-          "text": "TrainerCentral",
-          "url": "https://www.trainercentral.com/"
-        },
-        {
-          "text": "Ulaa",
-          "url": "https://www.ulaa.com/"
-        },
-        {
-          "text": "Qntrl",
-          "url": "https://www.qntrl.com/"
-        }
-      ],
-      "Service": [
-        {
-          "text": "Desk",
-          "url": "https://www.zoho.com/desk/"
-        },
-        {
-          "text": "Assist",
-          "url": "https://www.zoho.com/assist/"
-        },
-        {
-          "text": "SalesIQ",
-          "url": "https://www.zoho.com/salesiq/"
-        },
-        {
-          "text": "Bookings",
-          "url": "https://www.zoho.com/bookings/"
-        },
-        {
-          "text": "FSM",
-          "url": "https://www.zoho.com/fsm/"
-        },
-        {
-          "text": "Lens",
-          "url": "https://www.zoho.com/lens/"
-        },
-        {
-          "text": "Service Plus",
-          "url": "https://www.zoho.com/serviceplus/"
-        }
-      ],
-      "Finance": [
-        {
-          "text": "Books",
-          "url": "https://www.zoho.com/books/"
-        },
-        {
-          "text": "Payroll",
-          "url": "https://www.zoho.com/payroll/"
+          "text": "Server",
+          "url": "https://www.site24x7.com/server-monitoring.html"
         },
         {
-          "text": "Expense",
-          "url": "https://www.zoho.com/expense/"
+          "text": "Public and Private Cloud",
+          "url": "https://www.site24x7.com/cloud-monitoring.html"
         },
         {
-          "text": "Inventory",
-          "url": "https://www.zoho.com/inventory/"
+          "text": "Network",
+          "url": "https://www.site24x7.com/network-monitoring.html"
         },
         {
-          "text": "Sign",
-          "url": "https://www.zoho.com/sign/"
+          "text": "Application Performance",
+          "url": "https://www.site24x7.com/application-performance-monitoring.html"
         },
-        {
-          "text": "Billing",
-          "url": "https://www.zoho.com/billing/"
-        },
-        {
-          "text": "Commerce",
-          "url": "https://www.zoho.com/commerce/"
-        },
-        {
-          "text": "Invoice",
-          "url": "https://www.zoho.com/invoice/"
-        },
-        {
-          "text": "Practice",
-          "url": "https://www.zoho.com/practice/"
-        },
-        {
-          "text": "Checkout",
-          "url": "https://www.zoho.com/checkout/"
-        },
-        {
-          "text": "Payments",
-          "url": "https://www.zoho.com/payments/"
-        },
-        {
-          "text": "Spend",
-          "url": "https://www.zoho.com/spend/"
-        },
-        {
-          "text": "ERP",
-          "url": "https://www.zoho.com/erp/"
-        },
-        {
-          "text": "Procurement",
-          "url": "https://www.zoho.com/procurement/"
-        },
-        {
-          "text": "Finance Plus",
-          "url": "https://www.zoho.com/financeplus/"
-        }
-      ],
-      "Email, Storage, and Collaboration": [
-        {
-          "text": "Mail",
-          "url": "https://www.zoho.com/mail/"
-        },
-        {
-          "text": "Sign",
-          "url": "https://www.zoho.com/sign/"
-        },
-        {
-          "text": "WorkDrive",
-          "url": "https://www.zoho.com/workdrive/"
-        },
-        {
-          "text": "Connect",
-          "url": "https://www.zoho.com/connect/"
-        },
-        {
-          "text": "Cliq",
-          "url": "https://www.zoho.com/cliq/"
-        },
-        {
-          "text": "ZeptoMail",
-          "url": "https://www.zoho.com/zeptomail/"
-        },
-        {
-          "text": "Meeting",
-          "url": "https://www.zoho.com/meeting/"
-        },
-        {
-          "text": "Bookings",
-          "url": "https://www.zoho.com/bookings/"
-        },
-        {
-          "text": "Learn",
-          "url": "https://www.zoho.com/learn/"
-        },
-        {
-          "text": "TeamInbox",
-          "url": "https://www.zoho.com/teaminbox/"
-        },
-        {
-          "text": "Office Integrator",
-          "url": "https://www.zoho.com/officeintegrator/"
-        },
-        {
-          "text": "Writer",
-          "url": "https://www.zoho.com/writer/"
-        },
-        {
-          "text": "Tables",
-          "url": "https://www.zoho.com/tables/"
-        },
-        {
-          "text": "Notebook",
-          "url": "https://www.zoho.com/notebook/business-solution.html"
-        },
-        {
-          "text": "Show",
-          "url": "https://www.zoho.com/show/"
-        },
-        {
-          "text": "Sheet",
-          "url": "https://www.zoho.com/sheet/"
-        },
-        {
-          "text": "Office Suite",
-          "url": "https://www.zoho.com/officesuite/"
-        },
-        {
-          "text": "Calendar",
-          "url": "https://www.zoho.com/calendar/"
-        },
-        {
-          "text": "ToDo",
-          "url": "https://www.zoho.com/todo/"
-        },
-        {
-          "text": "PDF Editor",
-          "url": "https://www.zoho.com/pdfeditor/"
-        },
-        {
-          "text": "Workplace",
-          "url": "https://www.zoho.com/workplace/"
-        }
-      ],
-      "Human Resources": [
-        {
-          "text": "People",
-          "url": "https://www.zoho.com/people/"
-        },
-        {
-          "text": "Payroll",
-          "url": "https://www.zoho.com/payroll/"
-        },
-        {
-          "text": "Expense",
-          "url": "https://www.zoho.com/expense/"
-        },
-        {
-          "text": "Recruit",
-          "url": "https://www.zoho.com/recruit/"
-        },
-        {
-          "text": "Sign",
-          "url": "https://www.zoho.com/sign/"
-        },
-        {
-          "text": "Workerly",
-          "url": "https://www.zoho.com/workerly/"
-        },
-        {
-          "text": "Shifts",
-          "url": "https://www.zoho.com/shifts/"
-        },
-        {
-          "text": "People Plus",
-          "url": "https://www.zoho.com/peopleplus/"
-        }
-      ],
-      "Legal": [
-        {
-          "text": "Sign",
-          "url": "https://www.zoho.com/sign/"
-        },
-        {
-          "text": "Contracts",
-          "url": "https://www.zoho.com/contracts/"
-        }
-      ],
-      "Security and IT Management": [
-        {
-          "text": "Creator",
-          "url": "https://www.zoho.com/creator/"
-        },
-        {
-          "text": "Assist",
-          "url": "https://www.zoho.com/assist/"
-        },
-        {
-          "text": "Vault",
-          "url": "https://www.zoho.com/vault/"
-        },
-        {
-          "text": "eProtect",
-          "url": "https://www.zoho.com/eprotect/"
-        },
-        {
-          "text": "Directory",
-          "url": "https://www.zoho.com/directory/"
-        },
-        {
-          "text": "Catalyst",
-          "url": "https://www.zoho.com/catalyst/"
-        },
-        {
-          "text": "RPA",
-          "url": "https://www.zoho.com/rpa/"
-        },
-        {
-          "text": "QEngine",
-          "url": "https://www.zoho.com/qengine/"
-        },
-        {
-          "text": "Lens",
-          "url": "https://www.zoho.com/lens/"
-        },
-        {
-          "text": "OneAuth",
-          "url": "https://www.zoho.com/accounts/oneauth.html"
-        },
-        {
-          "text": "Toolkit",
-          "url": "https://www.zoho.com/toolkit/"
-        }
-      ],
-      "Enterprise solutions fromManageEngineand a security-first browser, Ulaa": [
         {
-          "text": "ManageEngine",
-          "url": "https://www.manageengine.com/"
+          "text": "Real User Monitoring",
+          "url": "https://www.site24x7.com/real-user-monitoring.html"
         },
         {
-          "text": "Endpoint Central",
-          "url": "https://www.zoho.com/endpoint-central/"
+          "text": "AIOps",
+          "url": "https://www.site24x7.com/aiops.html"
         },
         {
-          "text": "ServiceDesk Plus",
-          "url": "https://www.zoho.com/online-service-desk-software.html"
+          "text": "MSP",
+          "url": "https://www.site24x7.com/msp/"
         },
         {
-          "text": "Site24x7",
-          "url": "https://www.site24x7.com/"
+          "text": "Digital Experience Monitoring",
+          "url": "https://www.site24x7.com/digital-experience-monitoring.html"
         },
         {
-          "text": "Mobile Device Manager Plus",
-          "url": "https://www.zoho.com/mdm-cloud.html"
+          "text": "Uptime Monitoring",
+          "url": "https://www.site24x7.com/uptime-monitoring.html"
         },
         {
-          "text": "Patch Manager Plus",
-          "url": "https://www.manageengine.com/patch-management/"
+          "text": "Webpage Speed Monitoring",
+          "url": "https://www.site24x7.com/web-page-analysis.html"
         },
         {
-          "text": "Analytics Plus",
-          "url": "https://www.manageengine.com/analytics-plus/"
+          "text": "Monitoring Locations",
+          "url": "https://www.site24x7.com/multi-location-web-site-monitoring.html"
         },
         {
-          "text": "Log360 Cloud",
-          "url": "https://www.zoho.com/log360-cloud/"
+          "text": "DNS Monitoring",
+          "url": "https://www.site24x7.com/dns-monitoring.html"
         },
         {
-          "text": "Remote Access Plus",
-          "url": "https://www.zoho.com/remoteaccessplus/"
+          "text": "REST API Monitoring",
+          "url": "https://www.site24x7.com/rest-api-monitoring.html"
         },
         {
-          "text": "StatusIQ",
+          "text": "Hosted Status Pages",
           "url": "https://www.site24x7.com/statusiq/"
         },
         {
-          "text": "Identity360",
-          "url": "https://www.manageengine.com/identity-360/"
+          "text": "Free Website Monitoring",
+          "url": "https://www.site24x7.com/free-website-monitoring-tool.html"
         },
         {
-          "text": "AlarmsOne",
-          "url": "https://www.manageengine.com/alarmsone/"
+          "text": "Digital Experience",
+          "url": "https://www.site24x7.com/training.html"
         },
         {
-          "text": "CloudDNS",
-          "url": "https://www.manageengine.com/clouddns/"
+          "text": "Digital Experience",
+          "url": "https://www.site24x7.com/webinars/digital-experience-monitoring.html"
         },
         {
-          "text": "Saas Manager Plus",
-          "url": "https://www.manageengine.com/saas-management/"
+          "text": "Log Management",
+          "url": "https://www.site24x7.com/log-management.html"
         },
         {
-          "text": "CloudSpend",
-          "url": "https://www.manageengine.com/cloudspend/"
+          "text": "Full-stack Observability",
+          "url": "https://www.site24x7.com/full-stack-observability.html"
         },
         {
-          "text": "Digital Risk Analyzer",
-          "url": "https://www.site24x7.com/digital-risk-analyzer/"
+          "text": "Java Monitoring",
+          "url": "https://www.site24x7.com/java-application-monitor.html"
         },
         {
-          "text": "DEX Manager Plus",
-          "url": "https://www.manageengine.com/digital-employee-experience/"
+          "text": ".NET Monitoring",
+          "url": "https://www.site24x7.com/microsoft-net-application-monitor.html"
         },
         {
-          "text": "Zoho Corporation.",
-          "url": "https://www.zohocorp.com/"
+          "text": "Python Monitoring",
+          "url": "https://www.site24x7.com/python-monitoring.html"
+        },
+        {
+          "text": "Node.js Monitoring",
+          "url": "https://www.site24x7.com/node-js-monitoring.html"
+        },
+        {
+          "text": "Mobile Application Monitoring",
+          "url": "https://www.site24x7.com/mobile-apm.html"
+        },
+        {
+          "text": "Find IP Address",
+          "url": "https://www.site24x7.com/find-ip-address-of-web-site.html"
+        },
+        {
+          "text": "Check Website Availability",
+          "url": "https://www.site24x7.com/check-website-availability.html"
+        },
+        {
+          "text": "Analyze Webpage",
+          "url": "https://www.site24x7.com/web-page-analyzer.html"
+        },
+        {
+          "text": "DNS Analysis",
+          "url": "https://www.site24x7.com/dns-lookup.html"
+        },
+        {
+          "text": "Find Location",
+          "url": "https://www.site24x7.com/find-website-location.html"
+        },
+        {
+          "text": "Webpage Speed Test",
+          "url": "https://www.site24x7.com/tools/web-speed-report.html"
+        },
+        {
+          "text": "NewRelic Alternative",
+          "url": "https://www.site24x7.com/newrelic-alternative.html"
+        },
+        {
+          "text": "Datadog Alternative",
+          "url": "https://www.site24x7.com/datadog-alternative.html"
+        },
+        {
+          "text": "AppDynamics Alternative",
+          "url": "https://www.site24x7.com/appdynamics-alternative.html"
+        },
+        {
+          "text": "Solarwinds Alternative",
+          "url": "https://www.site24x7.com/solarwinds-alternative.html"
+        },
+        {
+          "text": "Dynatrace Alternative",
+          "url": "https://www.site24x7.com/dynatrace-alternative.html"
+        },
+        {
+          "text": "Infrastructure Monitoring",
+          "url": "https://www.site24x7.com/infrastructure-monitoring.html"
+        },
+        {
+          "text": "Windows Monitoring",
+          "url": "https://www.site24x7.com/windows-monitoring.html"
+        },
+        {
+          "text": "Linux Monitoring",
+          "url": "https://www.site24x7.com/linux-monitoring.html"
+        },
+        {
+          "text": "Kubernetes Monitoring",
+          "url": "https://www.site24x7.com/kubernetes-monitoring.html"
+        },
+        {
+          "text": "VMware Monitoring",
+          "url": "https://www.site24x7.com/vmware-monitoring.html"
+        },
+        {
+          "text": "Database Monitoring",
+          "url": "https://www.site24x7.com/database-monitoring.html"
+        },
+        {
+          "text": "Site24x7 Plugins",
+          "url": "https://www.site24x7.com/plugins.html"
+        },
+        {
+          "text": "AWS Monitoring",
+          "url": "https://www.site24x7.com/aws-monitoring.html"
+        },
+        {
+          "text": "Azure Monitoring",
+          "url": "https://www.site24x7.com/azure/"
+        },
+        {
+          "text": "GCP Monitoring",
+          "url": "https://www.site24x7.com/gcp/"
+        },
+        {
+          "text": "OCI Monitoring",
+          "url": "https://www.site24x7.com/oci-monitoring.html"
+        },
+        {
+          "text": "Network Traffic Monitoring",
+          "url": "https://www.site24x7.com/network-traffic-monitoring.html"
+        },
+        {
+          "text": "Network Configuration Manager",
+          "url": "https://www.site24x7.com/network-configuration-manager.html"
+        },
+        {
+          "text": "VPN Monitoring",
+          "url": "https://www.site24x7.com/vpn-monitoring.html"
+        },
+        {
+          "text": "Network Device Vendors",
+          "url": "https://www.site24x7.com/network/device-vendors.html"
+        },
+        {
+          "text": "Plans & Pricing",
+          "url": "https://www.site24x7.com/site24x7-pricing.html"
+        },
+        {
+          "text": "ROI Calculator",
+          "url": "https://www.site24x7.com/roi-calculator.html"
+        },
+        {
+          "text": "All resources",
+          "url": "https://www.site24x7.com/resource.html"
+        },
+        {
+          "text": "Blog",
+          "url": "https://www.site24x7.com/blog/"
+        },
+        {
+          "text": "Community",
+          "url": "https://www.site24x7.com/community/"
+        },
+        {
+          "text": "Resources",
+          "url": "https://www.site24x7.com/learn/"
+        },
+        {
+          "text": "Help Documentation",
+          "url": "https://www.site24x7.com/help/"
+        },
+        {
+          "text": "API",
+          "url": "https://www.site24x7.com/help/api/"
+        },
+        {
+          "text": "Webinars",
+          "url": "https://www.site24x7.com/webinars.html"
+        },
+        {
+          "text": "Security Reports",
+          "url": "https://www.site24x7.com/security-reports"
+        },
+        {
+          "text": "Analyst Recognitions",
+          "url": "https://www.site24x7.com/analyst-recognitions.html"
+        },
+        {
+          "text": "Cheatsheet",
+          "url": "https://www.site24x7.com/cheatsheet/"
+        },
+        {
+          "text": "About Site24x7",
+          "url": "https://www.site24x7.com/about-site24x7.html"
+        },
+        {
+          "text": "Our Customers",
+          "url": "https://www.site24x7.com/customers.html"
+        },
+        {
+          "text": "Testimonials",
+          "url": "https://www.site24x7.com/site24x7-testimonials.html"
+        },
+        {
+          "text": "Press Releases",
+          "url": "https://www.site24x7.com/news/"
+        },
+        {
+          "text": "Events",
+          "url": "https://www.site24x7.com/events.html"
+        },
+        {
+          "text": "Newsletter",
+          "url": "https://www.site24x7.com/newsletter/"
+        },
+        {
+          "text": "Contact Support",
+          "url": "https://www.site24x7.com/contact-support.html"
+        },
+        {
+          "text": "Request Demo",
+          "url": "https://www.site24x7.com/schedule-demo.html"
+        },
+        {
+          "text": "Become a Partner",
+          "url": "https://www.site24x7.com/partners.html"
+        },
+        {
+          "text": "What's New",
+          "url": "https://www.site24x7.com/whats-new-in-site24x7.html"
+        },
+        {
+          "text": "Site24x7 Service Status",
+          "url": "https://status.site24x7.com"
         }
       ],
-      "BI and Analytics": [
+      "ManageEngine ITOM (On-premises)": [
         {
-          "text": "Analytics",
-          "url": "https://www.zoho.com/analytics/"
-        },
-        {
-          "text": "DataPrep",
-          "url": "https://www.zoho.com/dataprep/"
-        },
-        {
-          "text": "Embedded BI",
-          "url": "https://www.zoho.com/analytics/embedded-analytics.html"
-        },
-        {
-          "text": "AI Dashboard Generator",
-          "url": "https://www.zoho.com/analytics/online-dashboard-builder.html"
+          "text": "ManageEngine ITOM (On-premises)",
+          "url": "https://www.site24x7.com/me-itom-solutions.html"
         }
       ],
-      "Project Management": [
+      "Engage with us on": [
         {
-          "text": "Projects",
-          "url": "https://www.zoho.com/projects/"
+          "text": "Follow us on Twitter",
+          "url": "https://twitter.com/Site24x7"
         },
         {
-          "text": "Sprints",
-          "url": "https://www.zoho.com/sprints/"
+          "text": "Connect with us on Facebook",
+          "url": "https://facebook.com/Site24x7"
         },
         {
-          "text": "BugTracker",
-          "url": "https://www.zoho.com/bugtracker/"
+          "text": "Enagage with us on LinkedIn",
+          "url": "https://www.linkedin.com/company/site24x7"
         },
         {
-          "text": "DAP",
-          "url": "https://www.zoho.com/dap/"
+          "text": "Get latest updates",
+          "url": "https://www.site24x7.com/whats-new-feed.rss"
         },
         {
-          "text": "Projects Plus",
-          "url": "https://www.zoho.com/projectsplus/"
+          "text": "Watch our videos on Youtube",
+          "url": "https://www.youtube.com/site24x7"
+        },
+        {
+          "text": "View our presentations on SlideShare",
+          "url": "https://www.slideshare.net/site24x7"
         }
       ],
-      "Developer Platforms": [
+      "Ft Sec Nav": [
         {
-          "text": "Creator",
-          "url": "https://www.zoho.com/creator/"
-        },
-        {
-          "text": "ZeptoMail",
-          "url": "https://www.zoho.com/zeptomail/"
-        },
-        {
-          "text": "IoT",
-          "url": "https://www.zoho.com/iot/"
-        },
-        {
-          "text": "Flow",
-          "url": "https://www.zoho.com/flow/"
-        },
-        {
-          "text": "Catalyst",
-          "url": "https://www.zoho.com/catalyst/"
-        },
-        {
-          "text": "DataPrep",
-          "url": "https://www.zoho.com/dataprep/"
-        },
-        {
-          "text": "Office Integrator",
-          "url": "https://www.zoho.com/officeintegrator/"
-        },
-        {
-          "text": "Tables",
-          "url": "https://www.zoho.com/tables/"
-        },
-        {
-          "text": "RPA",
-          "url": "https://www.zoho.com/rpa/"
-        },
-        {
-          "text": "QEngine",
-          "url": "https://www.zoho.com/qengine/"
-        },
-        {
-          "text": "Apptics",
-          "url": "https://www.zoho.com/apptics/"
-        },
-        {
-          "text": "Embedded BI",
-          "url": "https://www.zoho.com/analytics/embedded-analytics.html"
-        },
-        {
-          "text": "MCP",
-          "url": "https://www.zoho.com/mcp/"
-        }
-      ],
-      "IoT": [
-        {
-          "text": "IoT",
-          "url": "https://www.zoho.com/iot/"
-        }
-      ],
-      "ERP": [
-        {
-          "text": "ERP",
-          "url": "https://www.zoho.com/erp/"
-        }
-      ],
-      "Zoho One": [
-        {
-          "text": "TRY ZOHO ONE",
-          "url": "https://www.zoho.com/one/"
-        }
-      ],
-      "Zw Product Header Skip": [
-        {
-          "text": "Skip to main content",
-          "url": "https://www.zoho.com/en-in/crm/#zw-template-inner"
-        }
-      ],
-      "The easiest AI CRM for growth.": [
-        {
-          "text": "The easiest AI CRM for growth.",
-          "url": "https://www.zoho.com/crm/signup.html"
-        },
-        {
-          "text": "The easiest AI CRM for growth.",
-          "url": "https://www.zoho.com/crm/gartner-sfa-mq.html"
-        }
-      ],
-      "Get started with yourflexible free trial": [
-        {
-          "text": "Terms of Service",
-          "url": "https://www.zoho.com/crm/terms.html"
+          "text": "Home",
+          "url": "https://www.site24x7.com/"
         },
         {
           "text": "Privacy Policy",
-          "url": "https://www.zoho.com/privacy.html"
-        }
-      ],
-      "Teams that work together, win together": [
-        {
-          "text": "Teams that work together, win together",
-          "url": "https://www.zoho.com/crm/crm-for-everyone/"
-        }
-      ],
-      "Supercharge your sales withZia Agents": [
-        {
-          "text": "Supercharge your sales withZia Agents",
-          "url": "https://www.zoho.com/crm/zia/agentic-ai.html"
-        }
-      ],
-      "AI is here to assist.": [
-        {
-          "text": "AI is here to assist.",
-          "url": "https://www.zoho.com/crm/zia/"
-        }
-      ],
-      "Engage with customers": [
-        {
-          "text": "Engage with customers",
-          "url": "https://www.zoho.com/crm/delightful-experience.html"
-        }
-      ],
-      "Stay informed": [
-        {
-          "text": "Stay informed",
-          "url": "https://www.zoho.com/crm/non-stop-scaling.html"
-        }
-      ],
-      "Scaleyour sales": [
-        {
-          "text": "Scaleyour sales",
-          "url": "https://www.zoho.com/crm/maximum-productivity.html"
-        }
-      ],
-      "Vew Sec": [
-        {
-          "text": "Canvas Design Studio",
-          "url": "https://www.zoho.com/canvas/"
+          "url": "https://www.site24x7.com/privacypolicy.html"
         },
         {
-          "text": "Sales Force Automation",
-          "url": "https://www.zoho.com/crm/sales-force-automation/"
-        },
-        {
-          "text": "Journey Orchestration",
-          "url": "https://www.zoho.com/crm/process-management/journey-orchestration.html"
-        },
-        {
-          "text": "CPQ",
-          "url": "https://www.zoho.com/crm/sales-force-automation/cpq.html"
-        },
-        {
-          "text": "Module 360",
-          "url": "https://www.zoho.com/crm/module360.html"
-        },
-        {
-          "text": "Kiosk Studio",
-          "url": "https://www.zoho.com/crm/process-management/kiosk-studio.html"
-        },
-        {
-          "text": "Predictive AI & BI",
-          "url": "https://www.zoho.com/crm/zia/"
-        },
-        {
-          "text": "Advanced Analytics",
-          "url": "https://www.zoho.com/crm/business-intelligence/"
-        },
-        {
-          "text": "Generative AI",
-          "url": "https://www.zoho.com/crm/zia/generative-ai.html"
-        }
-      ],
-      "Everything yourbusiness needs,with a neat360\u00b0 view.": [
-        {
-          "text": "Everything yourbusiness needs,with a neat360\u00b0 view.",
-          "url": "https://www.zoho.com/crm/signup.html"
-        },
-        {
-          "text": "See Pricing",
-          "url": "https://www.zoho.com/crm/zohocrm-pricing.html"
-        }
-      ],
-      "Obsessed with Privacy since 1999": [
-        {
-          "text": "Obsessed with Privacy since 1999",
-          "url": "https://www.zoho.com/privacy-commitment.html"
-        }
-      ],
-      "Take us for a spin!": [
-        {
-          "text": "Quick Tour",
-          "url": "https://www.zoho.com/crm/resources/guided-tour/zoho-crm-overview.html"
-        }
-      ],
-      "How do I know what's the right edition for me?": [
-        {
-          "text": "Edition Selector",
-          "url": "https://www.zoho.com/crm/edition-selector-quiz-zoho-crm.html"
-        }
-      ],
-      "How do I migrate toZoho CRM?": [
-        {
-          "text": "Explore Zwitch (Migration)",
-          "url": "https://www.zoho.com/crm/switch-crm-save-70.html"
-        },
-        {
-          "text": "Explore Jumpstart (Service)",
-          "url": "https://www.zoho.com/r/jumpstart/"
-        },
-        {
-          "text": "Contact EBS (Enterprise)",
-          "url": "https://www.zoho.com/enterprise/ebs/"
-        }
-      ],
-      "Is Zoho CRM available for my industry?": [
-        {
-          "text": "industry-specific solutions",
-          "url": "https://www.zoho.com/crm/verticals/"
-        }
-      ],
-      "Does Zoho CRM have a free plan?": [
-        {
-          "text": "Bigin by Zoho CRM,",
-          "url": "https://www.zoho.com/bigin"
-        }
-      ],
-      "Improved Sales.Lasting Relationships.Faster Growth.": [
-        {
-          "text": "Sign Up For Free",
-          "url": "https://www.zoho.com/crm/signup.html"
-        },
-        {
-          "text": "SEE PLANS AND PRICING",
-          "url": "https://www.zoho.com/crm/zohocrm-pricing.html"
-        }
-      ],
-      "Footer": [
-        {
-          "text": "EXPLORE CRM",
-          "url": "https://www.zoho.com/crm/webinars/"
-        },
-        {
-          "text": "Go to the App Store",
-          "url": "https://apps.apple.com/us/app/zoho-crm-sales-marketing/id444908810"
-        },
-        {
-          "text": "Go to the Play Store",
-          "url": "https://play.google.com/store/apps/details"
-        },
-        {
-          "text": "Check us out on Linkedin - opens in a new tab",
-          "url": "https://linkedin.com/showcase/zohocrm/"
-        },
-        {
-          "text": "Check us out on Twitter - opens in a new tab",
-          "url": "https://twitter.com/zohocrm"
-        },
-        {
-          "text": "Check us out on Instagram - opens in a new tab",
-          "url": "https://www.instagram.com/zoho_crm/"
-        },
-        {
-          "text": "Check us out on Youtube - opens in a new tab",
-          "url": "https://youtube.com/c/ZohoCRMofficial"
-        },
-        {
-          "text": "Check us out on Facebook - opens in a new tab",
-          "url": "https://www.facebook.com/crmzoho"
-        },
-        {
-          "text": "English (Global)",
-          "url": "https://www.zoho.com/crm/"
-        },
-        {
-          "text": "Espa\u00f1ol",
-          "url": "https://www.zoho.com/es-xl/crm/"
-        },
-        {
-          "text": "Portugu\u00eas (Brasil)",
-          "url": "https://www.zoho.com/pt-br/crm/"
-        },
-        {
-          "text": "Deutsch",
-          "url": "https://www.zoho.com/de/crm/"
-        },
-        {
-          "text": "Fran\u00e7ais",
-          "url": "https://www.zoho.com/fr/crm/"
-        },
-        {
-          "text": "Nederlands",
-          "url": "https://www.zoho.com/nl/crm/"
-        },
-        {
-          "text": "\u65e5\u672c\u8a9e",
-          "url": "https://www.zoho.com/jp/crm/"
-        },
-        {
-          "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
-          "url": "https://www.zoho.com/ar/crm/"
-        },
-        {
-          "text": "Bahasa Indonesia",
-          "url": "https://www.zoho.com/id/crm/"
-        },
-        {
-          "text": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
-          "url": "https://www.zoho.com/th/crm/"
-        },
-        {
-          "text": "Ti\u1ebfng Vi\u1ec7t",
-          "url": "https://www.zoho.com/vi/crm/"
-        },
-        {
-          "text": "\u7b80\u4f53\u4e2d\u6587",
-          "url": "https://www.zoho.com.cn/crm/"
-        },
-        {
-          "text": "Fran\u00e7ais (Canada)",
-          "url": "https://www.zoho.com/fr-ca/crm/"
-        },
-        {
-          "text": "\u7e41\u4f53\u4e2d\u6587",
-          "url": "https://www.zoho.com/zh-hant/crm/"
-        },
-        {
-          "text": "\u05e2\u05d1\u05e8\u05d9\u05ea",
-          "url": "https://www.zoho.com/he/crm/"
-        },
-        {
-          "text": "\ud55c\uad6d\uc5b4",
-          "url": "https://www.zoho.com/ko/crm/"
-        },
-        {
-          "text": "Choose Privacy. Choose Zoho.",
-          "url": "https://www.zoho.com/contactus.html"
-        },
-        {
-          "text": "Security",
-          "url": "https://www.zoho.com/security.html"
-        },
-        {
-          "text": "Compliance",
-          "url": "https://www.zoho.com/compliance.html"
-        },
-        {
-          "text": "IPR Complaints",
-          "url": "https://www.zoho.com/ipr-complaints.html"
-        },
-        {
-          "text": "Anti-spam Policy",
-          "url": "https://www.zoho.com/policy.html"
-        },
-        {
-          "text": "Terms of Service",
-          "url": "https://www.zoho.com/crm/terms.html"
-        },
-        {
-          "text": "Privacy Policy",
-          "url": "https://www.zoho.com/privacy.html"
-        },
-        {
-          "text": "Trademark Policy",
-          "url": "https://www.zoho.com/trademark-usage-guideliines.html"
+          "text": "Terms of Use",
+          "url": "https://www.site24x7.com/terms.html"
         },
         {
           "text": "Cookie Policy",
-          "url": "https://www.zoho.com/privacy/cookie-policy.html"
+          "url": "https://www.site24x7.com/cookiepolicy.html"
+        },
+        {
+          "text": "Security",
+          "url": "https://www.site24x7.com/security.html"
+        },
+        {
+          "text": "Sitemap",
+          "url": "https://www.site24x7.com/sitemap.html"
         },
         {
           "text": "GDPR Compliance",
           "url": "https://www.zoho.com/gdpr.html"
-        },
-        {
-          "text": "Abuse Policy",
-          "url": "https://www.zoho.com/abuse-policy/"
         }
       ],
-      "EXPLORE CRM": [
+      "Footer": [
         {
-          "text": "CRM Essentials",
-          "url": "https://www.zoho.com/crm/crm-essentials.html"
-        },
-        {
-          "text": "CRM Alternatives",
-          "url": "https://www.zoho.com/crm/alternatives/"
-        },
-        {
-          "text": "CRM for Free",
-          "url": "https://www.zoho.com/crm/free-crm.html"
-        },
-        {
-          "text": "CRM for SMB",
-          "url": "https://www.zoho.com/bigin/"
-        },
-        {
-          "text": "Customer Experience Suite",
-          "url": "https://www.zoho.com/crm/crmplus/"
-        },
-        {
-          "text": "Google Workspace CRM",
-          "url": "https://www.zoho.com/crm/zoho-crm-for-google-workspace.html"
-        },
-        {
-          "text": "Social CRM",
-          "url": "https://www.zoho.com/crm/social-crm.html"
-        },
-        {
-          "text": "Help Desk CRM",
-          "url": "https://www.zoho.com/crm/help-desk-crm.html"
-        },
-        {
-          "text": "AI-Powered CRM",
-          "url": "https://www.zoho.com/crm/ai-features-in-zoho-crm.html"
-        },
-        {
-          "text": "Revenue Action Orchestration",
-          "url": "https://www.zoho.com/crm/revenue-orchestration.html"
+          "text": "Zoho Corporation Pvt. Ltd.",
+          "url": "https://www.zohocorp.com"
         }
       ],
-      "RESOURCES": [
+      "Cookie Settings": [
         {
-          "text": "What is CRM?",
-          "url": "https://www.zoho.com/crm/what-is-crm.html"
-        },
-        {
-          "text": "Solutions & Verticals",
-          "url": "https://www.zoho.com/crm/solutions.html"
-        },
-        {
-          "text": "Help Center",
-          "url": "https://www.zoho.com/crm/resources/"
-        },
-        {
-          "text": "CRM for Everyone",
-          "url": "https://www.zoho.com/crm/crm-for-everyone/resources.html"
-        },
-        {
-          "text": "Find a Partner",
-          "url": "https://www.zoho.com/partners/find-partner-results.html"
-        },
-        {
-          "text": "Customer Forum",
-          "url": "https://help.zoho.com/portal/community/zoho-crm"
-        },
-        {
-          "text": "Release Notes",
-          "url": "https://www.zoho.com/crm/whats-new/release-notes.html"
-        },
-        {
-          "text": "SDR Course",
-          "url": "https://www.zoho.com/crm/resources/courses.html"
-        },
-        {
-          "text": "Training",
-          "url": "https://www.zoho.com/crm/customer-success/"
-        },
-        {
-          "text": "CRM Express - Blog",
-          "url": "https://www.zoho.com/crm/crm-express/"
-        },
-        {
-          "text": "CRM for Enterprises",
-          "url": "https://www.zoho.com/crm/enterprise/"
+          "text": "cookie policy",
+          "url": "https://www.site24x7.com/cookiepolicy.html"
         }
       ],
-      "GET STARTED": [
+      "Strictly NecessaryAlways Active": [
         {
-          "text": "Request Demo",
-          "url": "https://www.zoho.com/crm/request-demo.html"
-        },
-        {
-          "text": "Why Zoho CRM?",
-          "url": "https://www.zoho.com/crm/why-choose-zoho-crm.html"
-        },
-        {
-          "text": "Integrations",
-          "url": "https://www.zoho.com/crm/integrations.html"
-        },
-        {
-          "text": "Compare CRMs",
-          "url": "https://www.zoho.com/crm/compare"
-        },
-        {
-          "text": "Edition Selector Quiz",
-          "url": "https://www.zoho.com/crm/edition-selector-quiz-zoho-crm.html"
-        },
-        {
-          "text": "Compare Plans",
-          "url": "https://www.zoho.com/crm/comparison.html"
-        },
-        {
-          "text": "Awards & Titles",
-          "url": "https://www.zoho.com/crm/awards.html"
-        },
-        {
-          "text": "Get Price Quote",
-          "url": "https://www.zoho.com/crm/request-quote.html"
-        },
-        {
-          "text": "Contact Sales",
-          "url": "https://www.zoho.com/contactus.html"
+          "text": "Strictly Necessary",
+          "url": "https://www.site24x7.com/cookiepolicy.html"
         }
       ],
-      "Z Bottom Cta Menu": [
+      "Functional/Preference": [
         {
-          "text": "Sign Up for Free",
-          "url": "https://www.zoho.com/crm/signup.html"
-        },
-        {
-          "text": "Access Zoho crm",
-          "url": "https://www.zoho.com/en-in/crm/"
+          "text": "Learn\n                        More",
+          "url": "https://www.site24x7.com/cookiepolicy.html"
         }
       ],
-      "Zmobile Menu New Content": [
+      "Analytics": [
         {
-          "text": "Pricing",
-          "url": "https://www.zoho.com/crm/zohocrm-pricing.html"
-        },
-        {
-          "text": "Ask Zia",
-          "url": "https://www.zoho.com/crm/ask-zia.html"
+          "text": "Learn\n                        More",
+          "url": "https://www.site24x7.com/cookiepolicy.html"
         }
       ],
-      "Zlogin Menu": [
+      "Third-party company cookies": [
         {
-          "text": "Sign In",
-          "url": "https://accounts.zoho.in/signin"
-        }
-      ],
-      "Zallprd Menu": [
-        {
-          "text": "All Zoho Products",
-          "url": "https://www.zoho.com/all-products.html"
+          "text": "Learn\n                        More",
+          "url": "https://www.site24x7.com/cookiepolicy.html"
         }
       ]
     }
